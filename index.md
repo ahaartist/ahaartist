@@ -1,7 +1,10 @@
 # 啊哈，艺术家！
 
+![image](https://user-images.githubusercontent.com/101451057/158012022-449a96eb-130a-4a4b-93a5-56aa7740a10b.png)
+> 寻寻觅觅
+
 ![image](https://user-images.githubusercontent.com/101451057/158011750-9f1cf2df-3b98-4b1b-8525-b97f7ea6d1da.png)
-> 和谐美...
+> 和谐美...[待到山花烂漫时，她在丛中笑。](https://m.shicimingju.com/1608.html)
 
 ![image](https://user-images.githubusercontent.com/101451057/158010557-d3564d88-cc23-400e-bdc9-cd3869754899.png)
 > Vincent van Gogh
