@@ -3,8 +3,13 @@
 ![image](https://user-images.githubusercontent.com/101451057/158010557-d3564d88-cc23-400e-bdc9-cd3869754899.png)
 > Vincent van Gogh
 
+[艺术家](https://baike.baidu.com/item/%E8%89%BA%E6%9C%AF%E5%AE%B6/23418)：从事艺术创作，并在绘画雕塑音乐等艺术领域具有杰出成就的艺术工作者，如莫扎特，肖邦，梵高，莫奈等。
+
 ![image](https://user-images.githubusercontent.com/101451057/158010591-015e8e8f-6e9c-4964-852f-e36445010b32.png)
 > 好专利如诗如画，如歌如器...
+
+![image](https://user-images.githubusercontent.com/101451057/158011280-ed4a1b06-ff02-4578-9dcc-ef0373a658e1.png)
+> 键盘上的莫扎特、小提琴手Thomas Linley与其他的天才儿童，为[1770年私人收藏的匿名油画](https://zh.wikipedia.org/wiki/%E6%B2%83%E5%B0%94%E5%A4%AB%E5%86%88%C2%B7%E9%98%BF%E9%A9%AC%E5%BE%B7%E4%B9%8C%E6%96%AF%C2%B7%E8%8E%AB%E6%89%8E%E7%89%B9)
 
 ![image](https://user-images.githubusercontent.com/101451057/158010688-f84c2a24-4609-402e-bbb6-5e5839e81ee2.png)
 > [台北国立故宫博物院藏《富春山居图》无用师卷](https://zh.wikipedia.org/wiki/%E5%AF%8C%E6%98%A5%E5%B1%B1%E5%B1%85%E5%9B%BE)
@@ -22,4 +27,4 @@
 
 ## 参考
 
-
+![Alt](https://repobeats.axiom.co/api/embed/f44b47e54dcc10fc93f2ee8ee05ef5e4d21a4791.svg "Repobeats analytics image")
