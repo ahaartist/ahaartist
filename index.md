@@ -3,6 +3,10 @@
 ![image](https://user-images.githubusercontent.com/101451057/158010557-d3564d88-cc23-400e-bdc9-cd3869754899.png)
 > Vincent van Gogh
 
+恰到好处：东家之子，增之一分则太长，减之一分则太短 ；著粉则太白，施朱则太赤；眉如翠羽，肌如白雪；腰如束素，齿如含贝；嫣然一笑，惑阳城，迷下蔡。[登徒子好色赋](https://baike.baidu.com/item/%E7%99%BB%E5%BE%92%E5%AD%90%E5%A5%BD%E8%89%B2%E8%B5%8B/2482573)
+
+“凡行文多寡短长，抑扬高下，无一定之律，而有一定之妙，可以意会，而不可以言传。”——清·刘大櫆[ 《论文偶记》](https://baike.baidu.com/item/%E5%8F%AA%E5%8F%AF%E6%84%8F%E4%BC%9A%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%A8%80%E4%BC%A0/2063652)
+
 [艺术家](https://baike.baidu.com/item/%E8%89%BA%E6%9C%AF%E5%AE%B6/23418)：从事艺术创作，并在绘画雕塑音乐等艺术领域具有杰出成就的艺术工作者，如莫扎特，肖邦，梵高，莫奈等。
 
 ![image](https://user-images.githubusercontent.com/101451057/158010591-015e8e8f-6e9c-4964-852f-e36445010b32.png)
@@ -20,8 +24,12 @@
 ![image](https://user-images.githubusercontent.com/101451057/158010794-c52645d5-8c27-406a-842f-46a2051a600c.png)
 > [三星堆遗址](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%98%9F%E5%A0%86%E9%81%97%E5%9D%80)证明了长江流域在上古时期并非是蛮荒之地，而与黄河流域一样拥有高度文明。
 
-![image](https://user-images.githubusercontent.com/101451057/158010983-ac6452eb-0671-4b0c-9059-2ed6d9aca169.png)
-> 东家之子，增之一分则太长，减之一分则太短 ；著粉则太白，施朱则太赤；眉如翠羽，肌如白雪；腰如束素，齿如含贝；嫣然一笑，惑阳城，迷下蔡。[登徒子好色赋](https://baike.baidu.com/item/%E7%99%BB%E5%BE%92%E5%AD%90%E5%A5%BD%E8%89%B2%E8%B5%8B/2482573)
+![image](https://user-images.githubusercontent.com/101451057/158011488-c5437036-5e2d-4cee-b61f-6700b865bb77.png)
+> [《蒙娜丽莎》](https://zh.wikipedia.org/wiki/%E8%92%99%E5%A8%9C%E4%B8%BD%E8%8E%8E)（意大利语：La Gioconda；法语：La Joconde；英语：Mona Lisa）为文艺复兴时期画家列奥纳多·达芬奇所绘的一幅肖像画，是其代表作。
+
+## 智力劳动
+
+## 知识产权
 
 
 
