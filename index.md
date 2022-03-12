@@ -1,5 +1,8 @@
 # 啊哈，艺术家！
 
+![image](https://user-images.githubusercontent.com/101451057/158011866-aceabeed-e457-4e47-a3f5-80d4d65b9f3e.png)
+> 登堂入室...
+
 ![image](https://user-images.githubusercontent.com/101451057/158010557-d3564d88-cc23-400e-bdc9-cd3869754899.png)
 > Vincent van Gogh
 
@@ -26,6 +29,13 @@
 
 ![image](https://user-images.githubusercontent.com/101451057/158011488-c5437036-5e2d-4cee-b61f-6700b865bb77.png)
 > [《蒙娜丽莎》](https://zh.wikipedia.org/wiki/%E8%92%99%E5%A8%9C%E4%B8%BD%E8%8E%8E)（意大利语：La Gioconda；法语：La Joconde；英语：Mona Lisa）为文艺复兴时期画家列奥纳多·达芬奇所绘的一幅肖像画，是其代表作。
+
+![image](https://user-images.githubusercontent.com/101451057/158011750-9f1cf2df-3b98-4b1b-8525-b97f7ea6d1da.png)
+![image](https://user-images.githubusercontent.com/101451057/158011763-97355acd-d59c-4836-a7f2-fc7258b00053.png)
+![image](https://user-images.githubusercontent.com/101451057/158011768-d1bcded1-b65e-46d5-8d80-42aeda025241.png)
+![image](https://user-images.githubusercontent.com/101451057/158011787-e25b3657-6d30-4990-891e-e5a5077edb8a.png)
+![image](https://user-images.githubusercontent.com/101451057/158011794-1626c8e0-e71c-4260-b1cf-5991aecdcaa5.png)
+> 美在瞬间
 
 ## 智力劳动
 
