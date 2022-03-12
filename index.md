@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# 啊哈，艺术家！
 
-You can use the [editor on GitHub](https://github.com/ahaartist/ahaartist/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/101451057/158010557-d3564d88-cc23-400e-bdc9-cd3869754899.png)
+> Vincent van Gogh
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/101451057/158010591-015e8e8f-6e9c-4964-852f-e36445010b32.png)
+> 好专利如诗如画，如歌如器...
 
-### Markdown
+![image](https://user-images.githubusercontent.com/101451057/158010688-f84c2a24-4609-402e-bbb6-5e5839e81ee2.png)
+> [台北国立故宫博物院藏《富春山居图》无用师卷](https://zh.wikipedia.org/wiki/%E5%AF%8C%E6%98%A5%E5%B1%B1%E5%B1%85%E5%9B%BE)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://user-images.githubusercontent.com/101451057/158010722-ed2813f0-8a3d-47cf-abcc-cfedd70eb6c0.png)
+> 苏轼由于政治上的迫害，反对王安石变法，被调离京师，后又历经乌台诗案，不久被贬到黄州，来到黄州的第三年，到寒食节的时候（清明节），苏轼看着自己屋简陋的房屋，再想想自己被贬不受重视的遭遇，心生感慨，穷途末路，于是提笔写出著名的[《黄州寒食诗帖》](https://www.sohu.com/a/327300591_120094474)。
 
-```markdown
-Syntax highlighted code block
+![image](https://user-images.githubusercontent.com/101451057/158010794-c52645d5-8c27-406a-842f-46a2051a600c.png)
+> [三星堆遗址](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%98%9F%E5%A0%86%E9%81%97%E5%9D%80)证明了长江流域在上古时期并非是蛮荒之地，而与黄河流域一样拥有高度文明。
 
-# Header 1
-## Header 2
-### Header 3
+## 参考
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahaartist/ahaartist/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
