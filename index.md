@@ -43,6 +43,20 @@
 
 ## 知识产权
 
+### 导论
+
+创造保护管理运用
+
+![image](https://user-images.githubusercontent.com/101451057/158012115-57aa7344-b7ec-4b03-9702-3039a32ad534.png)
+![image](https://user-images.githubusercontent.com/101451057/158012117-38020b9e-a5f3-4738-bad2-c6a258c41269.png)
+![image](https://user-images.githubusercontent.com/101451057/158012119-5539d781-6523-4d3d-9d3c-5ff15c7cb7b6.png)
+![image](https://user-images.githubusercontent.com/101451057/158012121-876bd8cd-f0cd-4f86-8941-d5e24d755e00.png)
+![image](https://user-images.githubusercontent.com/101451057/158012123-be745302-d8ea-451e-9ef1-7fa0ed7a6811.png)
+![image](https://user-images.githubusercontent.com/101451057/158012125-bf3ae577-1a88-41c8-a638-3cdb64b1d6b2.png)
+![image](https://user-images.githubusercontent.com/101451057/158012128-a43776fc-b3d0-4262-b285-f3e46ccc3214.png)
+![image](https://user-images.githubusercontent.com/101451057/158012130-1d6affea-7c33-4574-bf35-2f1d2313efe6.png)
+![image](https://user-images.githubusercontent.com/101451057/158012132-f1e95202-7f11-419d-a89c-f961526a952b.png)
+
 
 
 ## 参考
